@@ -1,24 +1,24 @@
 ﻿sector,expenditure (Billion GBP),year
-Employment,24,2017
-Employment,23,2018
-Employment,23,2019
-Employment,25,2020
-Employment,30,2021
-Housing ,34,2017
-Housing ,36,2018
-Housing ,31,2019
-Housing ,32,2020
-Housing ,32,2021
+"Industry, Agriculture & Employment",24,2017
+"Industry, Agriculture & Employment",23,2018
+"Industry, Agriculture & Employment",23,2019
+"Industry, Agriculture & Employment",25,2020
+"Industry, Agriculture & Employment",30,2021
+Housing and environment ,34,2017
+Housing and environment ,36,2018
+Housing and environment ,31,2019
+Housing and environment ,32,2020
+Housing and environment ,32,2021
 Personal Social Services,30,2017
 Personal Social Services,32,2018
 Personal Social Services,32,2019
 Personal Social Services,34,2020
 Personal Social Services,36,2021
-Public Order ,34,2017
-Public Order ,34,2018
-Public Order ,35,2019
-Public Order ,35,2020
-Public Order ,38,2021
+Public Order and safety ,34,2017
+Public Order and safety ,34,2018
+Public Order and safety ,35,2019
+Public Order and safety ,35,2020
+Public Order and safety ,38,2021
 Transport,29,2017
 Transport,37,2018
 Transport,35,2019
